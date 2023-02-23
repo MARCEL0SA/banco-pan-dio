@@ -1,2 +1,2 @@
-# banco-pan-dio
-repositório banco pan dio
+# Banco-Pan-Dio.
+Repositório Banco Pan Dio.
